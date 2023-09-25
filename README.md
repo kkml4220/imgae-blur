@@ -1,4 +1,4 @@
-# blur
+# image-blur
 
 画像の平滑化(ぼかし)
 
